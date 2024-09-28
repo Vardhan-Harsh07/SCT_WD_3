@@ -26,8 +26,6 @@ Welcome to my Tic Tac Toe game! This project is a simple implementation of the c
 - **CSS**: For styling and layout.
 - **JavaScript**: For game logic and interactivity.
 
-## 📂 Project Structure
-
 ## 🤝 Acknowledgments
 - Inspired by the classic Tic Tac Toe game.
 - Thank you for checking out my project!
